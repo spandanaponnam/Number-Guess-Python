@@ -1,6 +1,10 @@
-# Number Guessing Game
+# Python CLI Games 🎮
 
-A simple Python project built.
+A collection of simple Python command-line games to practice programming and have fun!  
 
-## Run
-python main.py
+This repo includes:
+
+1. **Number Guessing Game** – Guess the number chosen by the computer.  
+2. **Snake-Water-Gun Game** – A simple CLI game similar to Rock-Paper-Scissors.
+
+---
